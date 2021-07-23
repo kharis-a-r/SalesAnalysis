@@ -1,5 +1,7 @@
 # Sales Analysis<br>
-Check out the ipynb files
+---
+*Check out the ipynb files*
+<br>
 ---
 This is an analysis of sales data from a chainstore for Year 2019.
 The analysis **gain insight of the sales pattern** and also aim to answer some questions in order to **improve sales** of said chainstore by applying best strategies generated from the data. <br><br>
