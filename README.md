@@ -1,4 +1,4 @@
-# Sales Analysis
+# Sales Analysis<br>
 Check out the ipynb files
 ---
 This is an analysis of sales data from a chainstore for Year 2019.
